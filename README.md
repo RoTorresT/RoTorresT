@@ -23,7 +23,7 @@ class Arsenal:
     languages: tuple[str, ...] = ("Python", "Bash", "HTML", "LaTeX", "Octave")
     Tools: tuple[str, ...] = ("GIT", "VIM", "Docker", "GCP")
     GCP: tuple[str, ...] = ("Compute Engine", "DataStore", "FireStore")
-    ongoing:   tuple[str, ...] = ("Django", "Cloud Build, Cloud Run)
+    Ongoing:   tuple[str, ...] = ("Django", "Cloud Build, Cloud Run)
 
     def jsonify(self):
         return json.dumps(asdict(self), indent=4)
