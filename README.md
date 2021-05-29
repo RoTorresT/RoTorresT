@@ -20,7 +20,7 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Arsenal:
-    languages: tuple[str, ...] = ("Python", "Bash", "HTML", "LaTeX", "Octave")
+    Languages: tuple[str, ...] = ("Python", "Bash", "HTML", "LaTeX", "Octave")
     Tools: tuple[str, ...] = ("GIT", "VIM", "Docker", "GCP")
     GCP: tuple[str, ...] = ("Compute Engine", "DataStore", "FireStore")
     Ongoing:   tuple[str, ...] = ("Django", "Cloud Build, Cloud Run)
