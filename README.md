@@ -1,9 +1,9 @@
 ### Hi Im Rodrigo
 
-- 🔭 I’m currently working on Web Scraping, Data Extraction and Automation
-- 🌱 I’m currently learning GCP
-- 👯 I’m looking to collaborate on Open Data projects
-- 💬 Ask me about Python, PM. I will be happy to help.
+- 🔭 I’m currently working on: Web Scraping, Data Extraction and Automation, using GCP.
+- 🌱 I’m currently learning: GCP
+- 👯 I’m looking to collaborate on: Open Data, Covid-19 projects
+- 💬 Ask me about PM, Python. I will be happy to help.
 - 📫 How to reach me: Send me a DM in [Twitter](https://twitter.com/rotorrest)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be an RF engineer, but code is more fun.
