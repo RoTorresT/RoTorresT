@@ -31,15 +31,15 @@
     <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-160458?style=for-the-badge&labelColor=black&logo=Pandas&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-Numpy-FFC727?style=for-the-badge&labelColor=black&logo=Numpy&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://plotly.com/"><img  src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&labelColor=black&logo=Plotly&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://beautiful-soup-4.readthedocs.io"><img src="https://img.shields.io/badge/-Tableau-224479?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/-Tableau-224479?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
 ### :cloud: Cloud Skills
 <br>
 <p align='center'>
-    <a href="https://www.python.org/"><img  src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.python.org/"><img  src="https://img.shields.io/badge/Airflow-017CEE?&style=for-the-badge&labelColor=black&logo=Apache%20Airflow&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://cloud.google.com/"><img  src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://airflow.apache.org/"><img  src="https://img.shields.io/badge/Airflow-017CEE?&style=for-the-badge&labelColor=black&logo=Apache%20Airflow&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.netlify.com/"><img  src="https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&labelColor=black&logo=netlify&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
