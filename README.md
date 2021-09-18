@@ -25,8 +25,8 @@
 <p>
     
 ### 📊 Data: manipulation, analysis, visualization
-<p align='center'>
 <br>
+<p align='center'>
     <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-160458?style=for-the-badge&labelColor=black&logo=Pandas&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-Numpy-FFC727?style=for-the-badge&labelColor=black&logo=Numpy&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://plotly.com/"><img  src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&labelColor=black&logo=Plotly&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
