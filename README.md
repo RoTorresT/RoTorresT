@@ -1,6 +1,6 @@
 ## Hi, I'm Rodrigo
 
-- 🔭 Data Engineer at a IA-EdTech startup, based on 🇫🇷
+- 🔭 Data engineer at a IA-EdTech startup, based on 🇫🇷
 - 👷‍♂️ At a daily basis I work in: Web Scraping, Data Extraction, ETLs
 - 💬 Ask me about: Python, I will be happy to help
 - 😄 Pronouns: He/Him
