@@ -1,7 +1,7 @@
 ## Hi, I'm Rodrigo
 
 - 🔭 Data Engineer at a IA-EdTech startup, based on 🇫🇷
-- 👷‍♂️ At a daily basis I work with: Web Scraping, Data Extraction, ETLs
+- 👷‍♂️ At a daily basis I work in: Web Scraping, Data Extraction, ETLs
 - 💬 Ask me about: Python, I will be happy to help
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be and electronics and telecom engineer, designing high frequency resonators
