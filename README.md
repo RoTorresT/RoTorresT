@@ -4,7 +4,7 @@
 - 👷‍♂️ At a daily basis I work in: Web Scraping, Data Extraction, ETLs
 - 💬 Ask me about: Python, I will be happy to help
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to be and electronics and telecom engineer, designing high frequency resonators
+- ⚡ Fun fact: I used to be and electronics and telecom engineer
 
 ## 🤝 I’m looking to collaborate on ...
 * Open Data
