@@ -35,7 +35,7 @@
 </p>
 <br>
 
-### :cloud: Cloud Skills
+### :cloud: Cloud 
 <br>
 <p align='center'>
     <a href="https://cloud.google.com/"><img  src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
