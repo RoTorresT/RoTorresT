@@ -26,7 +26,7 @@
 <br>
 
 ### 📊 Data: manipulation, analysis, visualization
-
+<br>
 <p align='center'>
     <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-160458?style=for-the-badge&labelColor=black&logo=Pandas&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-Numpy-FFC727?style=for-the-badge&labelColor=black&logo=Numpy&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,6 +36,7 @@
 <br>
 
 ### :cloud: Cloud Skills
+<br>
 <p align='center'>
     <a href="https://www.python.org/"><img  src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.python.org/"><img  src="https://img.shields.io/badge/Airflow-017CEE?&style=for-the-badge&labelColor=black&logo=Apache%20Airflow&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,7 +45,7 @@
 <br>
 
 ### 📔 Documentation 
-
+<br>
 <p align='center'> 
     <a href="https://www.notion.so"><img  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&labelColor=black&logo=notion&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://trello.com"><img  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&labelColor=black&logo=trello&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,6 +55,7 @@
 <br>
 
 ### ⏳ Version contol
+<br>
 <p align='center'>
     <a href="https://git-scm.com/"><img  src="https://img.shields.io/badge/-Git-F05033?style=for-the-badge&labelColor=black&logo=Git&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;    
     <a href="https://github.com/"><img  src="https://img.shields.io/badge/-Github-5C005C?style=for-the-badge&labelColor=black&logo=Github&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
