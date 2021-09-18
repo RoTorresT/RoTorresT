@@ -14,7 +14,7 @@
 <br>
 
 <h2> 🔨 My principal tools are:</h2>
-
+<br>
 <p align='center'>
     <a href="https://www.python.org/"><img  src="https://img.shields.io/badge/-Python-007FF4?style=for-the-badge&labelColor=black&logo=Python&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://jupyter.org/"><img  src="https://img.shields.io/badge/-Jupyter-F37726?style=for-the-badge&labelColor=black&logo=Jupyter&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
