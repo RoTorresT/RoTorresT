@@ -1,6 +1,6 @@
 ## Hi, I'm Rodrigo
 
-- 🔭 Data / Python engineer at [Shake.io](https://shake.io/), based on 🇵🇹
+- 🔭 Data / Python engineer at [Shake.io](https://shake.io/)
 - 👷‍♂️ At a daily basis I work in: Web Scraping, Data Extraction, ETLs
 - 💬 Ask me about: Python, I will be happy to help
 - 😄 Pronouns: He/Him
