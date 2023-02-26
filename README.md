@@ -2,11 +2,11 @@
 
 - 🔭 Data / Python engineer at [Shake.io](https://shake.io/)
 - 👷‍♂️ At a daily basis I work in: Web Scraping, Data Extraction, ETLs
-- 💬 Ask me about: Python, I will be happy to help
+- 💬 Ask me about: Python, Scraping and Cloud Architectures
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to be a electronics and telecom engineer
+- ⚡ Fun fact: I used to be an electronics and telecom engineer
 
-## 🤝 I’m looking to collaborate on...
+## 🤝 I’m looking to collaborate on…
 * Startups
 * Product Design
 * ETLs
