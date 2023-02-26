@@ -1,14 +1,14 @@
 ## Hi, I'm Rodrigo
 
-- 🔭 Data engineer at a IA-EdTech startup, based on 🇫🇷
+- 🔭 Data / Python engineer at [Shake.io](https://shake.io/), based on 🇵🇹
 - 👷‍♂️ At a daily basis I work in: Web Scraping, Data Extraction, ETLs
 - 💬 Ask me about: Python, I will be happy to help
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to be and electronics and telecom engineer
+- ⚡ Fun fact: I used to be a electronics and telecom engineer
 
-## 🤝 I’m looking to collaborate on ...
-* Open Data
-* Covid-19 projects
+## 🤝 I’m looking to collaborate on...
+* Startups
+* Product Design
 * ETLs
 
 <br>
