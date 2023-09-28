@@ -1,6 +1,6 @@
 ## Hi, I'm Rodrigo
 
-- 🔭 Data / Python engineer at [Shake.io](https://shake.io/)
+- 🔭 Data / Python engineer at [Shimoku](https://www.shimoku.com/)
 - 👷‍♂️ At a daily basis I work in: Web Scraping, Data Extraction, ETLs
 - 💬 Ask me about: Python, Scraping and Cloud Architectures
 - 😄 Pronouns: He/Him
